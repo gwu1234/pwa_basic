@@ -1,0 +1,14 @@
+{
+  "name": "pwa_demo",
+  "version": "1.0.0",
+  "description": "a simple demo of pwa",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
